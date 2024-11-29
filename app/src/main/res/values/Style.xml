@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="buttonGreen" parent="Theme.IvaCalculadora">
+        <item name="backgroundTint">@color/green</item>
+    </style>
+
+</resources>
